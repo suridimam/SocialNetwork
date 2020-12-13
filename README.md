@@ -1,4 +1,4 @@
-# Social-Network
+# SocialNetwork
 A java based social network application created in NetBeans
 
 This application is intended for High School students who have difficulty making friends.
