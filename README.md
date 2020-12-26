@@ -12,8 +12,3 @@ Users who are friends can message each other.
 
 Any user can create an event for other users who go to the same school. These events are public
 and everyone who attends the school can see them.
-# TestingofBackdatedproject
-# TESTTEST
-# TESTTEST
-# TESTTEST
-# testtest
